@@ -2,8 +2,6 @@
 - 👀 I’m interested in AI - Robotics.
 - 🌱 I’m currently learning Machine Learning
 - You can contact me via tunakimyonok1@gmail.com.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 tunakmynk/tunakmynk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
