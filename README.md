@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tunakmynk
-- 👀 I’m interested in AI - Robotics.
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in AI, Robotics and Backend 
+- 🌱 I’m currently learning Machine Learning and backend architecture
 - You can contact me via tunakimyonok1@gmail.com.
 
 <!---
