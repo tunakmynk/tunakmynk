@@ -23,5 +23,5 @@ Sunucu (backend) mimarileri ve oyun geliştiriciliği üzerine yoğunlaşan bir 
 * **Araçlar:** Unity, Git, GitHub
 
 ## 📫 İletişim
-Benimle projeler, iş birlikleri veya yapay zeka üzerine konuşmak için iletişime geçebilirsiniz:
+Benimle projeler, iş birlikleri üzerine konuşmak için iletişime geçebilirsiniz:
 * **E-posta:** tunakimyonok1@gmail.com
