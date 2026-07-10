@@ -1,6 +1,6 @@
 # Merhaba, Ben Tuna Kimyonok! 👋
 
-Sunucu (backend) mimarileri ve oyun geliştiriciliği üzerine yoğunlaşan bir yazılım geliştiricisiyim. Bilgisayar Mühendisliği eğitimimle birlikte, şu sıralar **Oyun Mekaniği**, **Büyük Dil Modelleri (LLM)** ve **RAG (Retrieval-Augmented Generation)** sistemleri geliştiriyorum. Özellikle oyun ekosistemleri ve geliştirici araçları (Developer Tools) için veri odaklı çözümler üretmekten keyif alıyorum.
+Sunucu (backend) mimarileri, sistem entegrasyonları ve son zamanlarda oyun geliştiriciliği üzerine yoğunlaşan bir yazılım geliştiricisiyim. Bilgisayar Mühendisliği eğitimimle birlikte, şu sıralar **Oyun Mekaniği**, **Büyük Dil Modelleri (LLM)** ve **RAG (Retrieval-Augmented Generation)** sistemleri geliştiriyorum. Özellikle oyun ekosistemleri ve geliştirici araçları (Developer Tools) için veri odaklı çözümler üretmekten keyif alıyorum.
 
 ## Öne Çıkan Projelerim
 
