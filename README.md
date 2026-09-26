@@ -1,27 +1,29 @@
-# Merhaba, Ben Tuna Kimyonok! 👋
+### Hi, I'm Tuna 👋
 
-Sunucu (backend) mimarileri, sistem entegrasyonları ve son zamanlarda oyun geliştiriciliği üzerine yoğunlaşan bir yazılım geliştiricisiyim. Bilgisayar Mühendisliği eğitimimle birlikte, şu sıralar **Oyun Mekaniği**, **Büyük Dil Modelleri (LLM)** ve **RAG (Retrieval-Augmented Generation)** sistemleri geliştiriyorum. Özellikle oyun ekosistemleri ve geliştirici araçları (Developer Tools) için veri odaklı çözümler üretmekten keyif alıyorum.
+**Backend & Applied AI Engineer** — I’m a final-year Computer Engineering student at Iskenderun Technical University. I like optimizing systems for speed and cost, designing architectures with AI built into them, and reading books that dig into the philosophy of software.
 
-## Öne Çıkan Projelerim
+I build the backend systems that take LLMs into production: RAG pipelines, real-time audio streaming, and the API architecture that ties them together.
 
-### 🎙️ Unity LLM Voice NPC Prototype
-*Unity oyun motoru içerisinde LLM ve ses tanıma teknolojilerini bir araya getiren akıllı NPC mekaniği.*
-* **Rol:** Oyun Mekaniği & Backend Geliştiricisi
-* **Özellikler:** Oyuncunun mikrofon ile kurduğu iletişimi işleyen "Gizli Hakem (Hidden Judge)" ikna sistemi.
-* **Teknolojiler:** Unity, C#, Python, FastAPI, Gemini 2.5 Flash, ElevenLabs TTS, SpeechRecognition.
+🌐 **Portfolio & case studies:** [tunakimyonok-portfolio.vercel.app](https://tunakimyonok-portfolio.vercel.app) · 📄 [CV](https://tunakimyonok-portfolio.vercel.app/cv/Tuna-Kimyonok-CV.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/tunakimyonok) · ✉️ tunakimyonok1@gmail.com
 
-### 📊 Crimson Desert RAG Asistanı
-*Oyun stüdyolarının QA ve hata ayıklama süreçlerini hızlandıran NLP tabanlı otonom analiz aracı.*
-* **Rol:** Veri & Backend Geliştiricisi (Developer Tooling)
-* **Özellikler:** Steam oyuncu geri bildirimlerini otomatik toplayarak (scraping) RAG mimarisiyle vektör veri tabanına aktarma ve benzer şikayetleri kümeleyerek hata tespiti (bug detection) yapma.
-* **Teknolojiler:** Python, RAG Mimarisi, Vector Database, Doğal Dil İşleme (NLP), Web Scraping.
+---
 
-## 🛠️ Teknik Yetenekler & Araçlar
-* **Diller:** Python, C, C++, C#, JavaScript
-* **AI & Veri:** Prompt Engineering, RAG Mimarileri, NLP, Vektör Veritabanları
-* **Backend:** FastAPI, Flask, API Entegrasyonları
-* **Araçlar:** Unity, Git, GitHub
+#### 🔭 Featured projects
 
-## 📫 İletişim
-Benimle projeler, iş birlikleri üzerine konuşmak için iletişime geçebilirsiniz:
-* **E-posta:** tunakimyonok1@gmail.com
+| Project | What it shows | Stack |
+|---|---|---|
+| [**Curriculum-Grounded Voice AI Assistant**](https://tunakimyonok-portfolio.vercel.app/projects/meb-voice-assistant/) | A push-to-talk device for grade 1–12 students that answers questions from Turkish national curriculum (MEB) textbooks, out loud and with sources, using hybrid RAG and an end-to-end streaming voice pipeline. | Python 3.12 · FastAPI · WebSocket · Qdrant · PostgreSQL · OpenAI API · Docker Compose · ESP32-S3 · ESP-IDF · LVGL |
+| [**Steam Player Feedback Analysis System**](https://github.com/tunakmynk/game-bug-tespiti-LLM) | An AI QA assistant that turns 15,000+ negative Steam reviews of Crimson Desert into ranked, queryable bug reports for a development team. [Case study](https://tunakimyonok-portfolio.vercel.app/projects/steam-feedback-analysis/) | Python · Flask · Sentence Transformers · UMAP · HDBSCAN · ChromaDB · Gemini 2.5 Flash |
+| [**Dwarf Grom: AI-Driven NPC Prototype**](https://github.com/tunakmynk/unity-llm-voice-npc) | A Unity 6 game prototype where players persuade an NPC in their own words, by typing or speaking, and a Gemini-powered hidden judge decides whether it worked. [Case study](https://tunakimyonok-portfolio.vercel.app/projects/dwarf-grom-llm-npc/) [▶ Video](https://www.youtube.com/watch?v=wW9WMaQVq_k) | Unity 6 · C# · Python · FastAPI · Gemini 2.5 Flash · ElevenLabs · Google Speech Recognition |
+
+#### 🛠️ Tech I build with
+
+**Languages:** Python · C# · JavaScript · C / C++  
+**Backend & APIs:** FastAPI · Flask · REST API design · WebSocket · Server-Sent Events · asyncio  
+**AI & Retrieval:** RAG architecture · Qdrant (hybrid search) · ChromaDB · Sentence Transformers · Gemini API · OpenAI API · UMAP + HDBSCAN · Structured LLM output (JSON)  
+**Data & Tooling:** PostgreSQL · Docker Compose · Git & GitHub · Postman  
+**Game & Embedded:** Unity 6 · ESP32-S3 (ESP-IDF)  
+
+> Open to Backend / AI Engineering roles. Based in Hatay, Türkiye.
+
+<!-- Generated from src/data/profile.ts by `npm run sync`. Do not edit by hand. -->
